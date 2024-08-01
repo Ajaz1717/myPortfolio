@@ -12,8 +12,8 @@ export default function Work() {
 
     return (
         <div className="workMainContainer h-lvh bg-[#1c1b22] px-64 py-16">
-            {/* <Myntra/> */}
-            <CricketGame/>
+            <Myntra/>
+            {/* <CricketGame/> */}
         </div>
     )
 }
